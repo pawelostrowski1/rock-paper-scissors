@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+.points {
+  display: flex;
+  margin: 20px;
+  gap: 100px;
+}
+
+.buttons {
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.results {
+  margin-left: 20px;
+}

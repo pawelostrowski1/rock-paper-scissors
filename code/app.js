@@ -1,3 +1,9 @@
+// HTML
+
+
+
+// Variables
+
 let computerChoice;
 let playerChoice;
 let result;
@@ -16,8 +22,6 @@ function getComputerChoice() {
     return "scissors";
   }
 }
-
-
 
 // Player Choice Selector
 
